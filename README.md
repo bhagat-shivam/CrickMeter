@@ -65,8 +65,8 @@ If you want to contribute to this project, feel free to fork the repository and 
 📞 Contact
 For questions or collaboration, reach out to me at:
 
-Email: your-email@example.com
-LinkedIn: Your LinkedIn
+Email: shivamkumarbhagat786@gmail.com
+LinkedIn: https://www.linkedin.com/in/shivam-kumar-bhagat-480920144/
 🔗 Inspiration
 The inspiration for CrickMeter comes from the idea of creating a cricket analytics tool that is simple yet powerful. By combining machine learning and interactive visualizations, I aimed to create an experience where cricket fans can not only predict match outcomes but also simulate how changes in game variables affect results.
 
